@@ -1,6 +1,5 @@
 # recette-forkify
-Are you looking for delicious recipe?
-https://recette-forkify.netlify.app/
+##This is a project created in Javascript, and is powered by the Food2Fork.com
 ***************************
 Available search queries:
 carrot
