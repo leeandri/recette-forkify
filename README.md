@@ -132,4 +132,4 @@ pepperoni
 salami
 ribs
 ******************************************************
-with <3 by Lee Andriamaholison for his JS training course 2020
+with <3 by Lee Andriamaholison 2020
