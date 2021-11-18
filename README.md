@@ -1,5 +1,5 @@
 # recette-forkify
-##This is a project created in Javascript, and is powered by the Food2Fork.com
+## This is a project created in Javascript, and is powered by the Food2Fork.com
 ***************************
 Available search queries:
 carrot
