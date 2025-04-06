@@ -2,7 +2,7 @@
 
 This is a project created in Javascript while completing a JS training course, and is powered by the Food2Fork.com 
 ***************************
-Available search queries:
+## Available search queries:
 carrot
 broccoli
 asparagus
@@ -132,4 +132,10 @@ pepperoni
 salami
 ribs
 ******************************************************
-with <3 by Lee Andriamaholison 2020
+## Built With:
+HTML
+CSS
+SASS
+JavaScript
+Parcel
+Babel
